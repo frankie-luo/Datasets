@@ -1,4 +1,4 @@
-Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
+﻿Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 1,ICBC,China,151.4,42,3473.2,229.8,Financials,Major Banks
 2,China Construction Bank,China,134.2,35,3016.6,200.5,Financials,Regional Banks
 3,Berkshire Hathaway,United States,222.9,24.1,620.9,409.9,Financials,Investment Services
@@ -36,7 +36,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 35,Nestle,Switzerland,90.8,8.7,129.8,229.5,Consumer Staples,Food Processing
 36,UnitedHealth Group,United States,184.9,7.2,125,160.2,Health Care,Managed Health Care
 37,Nippon Telegraph & Tel,Japan,105,7.4,180.3,92.2,Telecommunication Services,Telecommunications services
-38,Itaú Unibanco Holding,Brazil,61.3,6.7,419.9,79.2,Financials,
+38,Ita√∫ Unibanco Holding,Brazil,61.3,6.7,419.9,79.2,Financials,
 39,Softbank,Japan,82.1,8.3,213.2,78.6,Telecommunication Services,Telecommunications services
 40,Gazprom,Russia,91.4,12.1,265.4,51.8,Energy,Oil & Gas Operations
 41,General Motors,United States,166.4,9.4,221.7,50.8,Consumer Discretionary,Auto & Truck Manufacturers
@@ -108,9 +108,9 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 107,Charter Communications,United States,29,3.5,153.2,101.6,Consumer Discretionary,Broadcasting & Cable
 108,SAIC Motor,China,112.7,4.8,85,43.5,Consumer Discretionary,Auto & Truck Manufacturers
 109,Chubb,Switzerland,31.9,4.1,159.8,64,Financials,Property & Casualty Insurance
-110,Telefónica,Spain,57.6,2.6,130.4,55.9,Telecommunication Services,
+110,Telef√≥nica,Spain,57.6,2.6,130.4,55.9,Telecommunication Services,
 111,AIA Group,Hong Kong,26.5,4.2,183,77.1,Financials,Life & Health Insurance
-112,Société Générale,France,28,4,1457.9,39.9,,
+112,Soci√©t√© G√©n√©rale,France,28,4,1457.9,39.9,,
 113,Dow Chemical,United States,48.1,4.3,79.5,77,Materials,Diversified Chemicals
 114,Home Depot,United States,94.6,8,43,176.7,Consumer Discretionary,Home Improvement Retail
 115,Lloyds Banking Group,United Kingdom,23.4,2.8,1010.5,55.9,Financials,Major Banks
@@ -196,7 +196,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 195,GlaxoSmithKline,United Kingdom,37.6,1.2,73,99.8,Health Care,Pharmaceuticals
 196,Deutsche Post,Germany,63.4,2.9,40.6,41,Industrials,Air Courier
 197,3M,United States,30.1,5.1,32.9,113.5,Industrials,Conglomerates
-198,L'Oréal Group,France,28.6,3.4,37.6,107.5,Industrials,
+198,L'Or√©al Group,France,28.6,3.4,37.6,107.5,Industrials,
 199,Aflac,United States,22.7,2.7,129.8,29.2,Financials,Life & Health Insurance
 200,Allstate,United States,36.3,1.9,110.4,29.6,Financials,Diversified Insurance
 201,Hitachi,Japan,85.8,1.8,82.7,25.6,Information Technology,Electronics
@@ -211,7 +211,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 210,Phillips 66,United States,71.2,1.5,51.7,39.9,Energy,Oil & Gas Operations
 211,Valero Energy,United States,75.7,2.3,46.8,29.4,Energy,Oil & Gas Operations
 212,Enbridge,Canada,26.1,1.6,64,69.3,Energy,Oil Services & Equipment
-213,Mondelēz International,United States,25.9,1.6,61.5,67.4,Consumer Discretionary,
+213,Mondelƒìz International,United States,25.9,1.6,61.5,67.4,Consumer Discretionary,
 214,People's Insurance Company,China,64.6,2.1,129.7,17.5,Financials,Property & Casualty Insurance
 215,McDonald's,United States,24.6,4.7,31,106.4,Consumer Discretionary,Restaurants
 216,ArcelorMittal,Luxembourg,56.8,1.8,75.1,25.1,Materials,Iron & Steel
@@ -338,7 +338,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 337,KIA Motors,South Korea,45.4,2.4,42.1,12.6,Consumer Discretionary,Auto & Truck Manufacturers
 338,Hartford Financial Services,United States,18.1,0.896,225.2,17.9,Financials,Diversified Insurance
 339,Southwest Airlines,United States,20.4,2.2,24.8,33.6,Industrials,Airline
-340,América Móvil,Mexico,52.2,0.463,73.6,47.3,Financials,
+340,Am√©rica M√≥vil,Mexico,52.2,0.463,73.6,47.3,Financials,
 341,Principal Financial Group,United States,12.5,1.3,228,18,Financials,Life & Health Insurance
 342,Fannie Mae,United States,108.3,12.3,3288,2.8,Financials,Investment Services
 343,Ameriprise Financial,United States,11.7,1.3,139.8,19.9,Financials,Investment Services
@@ -556,7 +556,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 555,Associated British Foods,United Kingdom,19,1.2,14.8,24.4,Consumer Staples,Food Processing
 556,Standard Life,United Kingdom,25.2,0.497,228.7,9,Financials,Life & Health Insurance
 557,Ally Financial,United States,10.1,1.1,163.7,9.1,Financials,
-558,Møller-Maersk,Denmark,35.5,-2,62.6,35,,
+558,M√∏ller-Maersk,Denmark,35.5,-2,62.6,35,,
 559,Ecopetrol,Colombia,15.6,0.513,40.4,19.7,Energy,Oil & Gas Operations
 560,National Bank of Canada,Canada,6.2,1.1,179.6,14.3,Financials,Major Banks
 561,Sumitomo Electric,Japan,25.6,0.905,24.6,12.5,Consumer Discretionary,Auto & Truck Parts
@@ -565,7 +565,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 564,Bank Central Asia,Indonesia,4.8,1.5,50.2,32.1,Financials,Regional Banks
 565,Marubeni,Japan,63.5,0.429,64.3,10.7,Industrials,Trading Companies
 566,DTE Energy,United States,10.7,0.868,32,18.5,Utilities,Electric Utilities
-567,Koç Holding,Turkey,23.5,1.1,25.1,10.4,Financials,
+567,Ko√ß Holding,Turkey,23.5,1.1,25.1,10.4,Financials,
 568,Unum,United States,11.1,0.931,63.6,10.6,Financials,
 569,Best Buy,United States,39.4,1.2,14.2,14.9,Information Technology,Computer & Electronics Retail
 570,Atlas Copco,Sweden,12.1,1.4,13.2,42.9,Industrials,Other Industrial Equipment
@@ -608,7 +608,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 607,E.ON,Germany,59.8,-9.3,70.4,16.9,Utilities,Electric Utilities
 608,Dell Technologies,United States,61.9,-3.7,118.2,13.5,Information Technology,
 609,Nokia,Finland,26.1,-0.749,49.2,30.3,Information Technology,Communications Equipment
-610,Eletrobrás,Brazil,17.4,0.983,52.4,7.2,Utilities,
+610,Eletrobr√°s,Brazil,17.4,0.983,52.4,7.2,Utilities,
 611,Legend Holding,China,44.3,0.732,46.4,7,Financials,
 612,Dollar General,United States,22,1.3,11.9,19.1,Consumer Discretionary,Discount Stores
 613,Banco de Sabadell,Spain,7.8,0.786,224.1,10,Financials,Regional Banks
@@ -676,7 +676,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 675,Kellogg,United States,13,0.694,15.1,25.4,Consumer Staples,Food Processing
 676,Recruit Holdings,Japan,16.1,0.778,11.2,29,Financials,
 677,Fast Retailing,Japan,16.4,0.639,12.4,31.8,Consumer Discretionary,Apparel/Footwear Retail
-678,Estée Lauder,United States,11.4,1.1,11.2,30.8,,
+678,Est√©e Lauder,United States,11.4,1.1,11.2,30.8,,
 679,Allied Irish Banks,Ireland,4,1.5,100.9,14.6,Financials,Regional Banks
 680,PKN Orlen,Poland,20.2,1.3,13.3,11.2,Energy,Oil & Gas Operations
 681,BAIC Motor,China,17.5,0.955,24.3,8.3,Consumer Discretionary,
@@ -789,7 +789,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 788,Porsche Automobil Holding,Germany,0.001,1.5,30,16.1,Consumer Discretionary,Auto & Truck Manufacturers
 789,Kone,Finland,9.7,1.1,8.4,23.7,Industrials,Construction Services
 790,CarMax,United States,15.9,0.627,16.3,10.5,Consumer Discretionary,Specialty Stores
-791,Itaúsa,Brazil,1.3,2.4,18.1,23,,
+791,Ita√∫sa,Brazil,1.3,2.4,18.1,23,,
 792,Sime Darby,Malaysia,10.7,0.697,15.4,14.3,Industrials,Conglomerates
 793,Wolseley,Switzerland,21.5,0.624,10.7,15.5,Materials,Construction Materials
 794,Air France-KLM,France,27.5,0.876,24.2,2.2,Industrials,Airline
@@ -833,7 +833,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 832,Secom,Japan,8.5,0.748,13.6,16.7,Industrials,Security Systems
 833,LG Corp,South Korea,8.6,0.926,16.1,10.7,Consumer Discretionary,Household Appliances
 834,Abu Dhabi Commercial Bank,United Arab Emirates,3.1,1.1,70.3,9.8,Financials,Regional Banks
-835,Hermès International,France,5.8,1.2,5.8,50.3,,
+835,Herm√®s International,France,5.8,1.2,5.8,50.3,,
 836,Link REIT,Hong Kong,1.2,1.8,21.8,16,Financials,Real Estate
 837,TD Ameritrade Holding,United States,3.4,0.846,28.8,20.3,Financials,Investment Services
 838,Sanlam,South Africa,5.8,0.655,48.8,9.5,Financials,Life & Health Insurance
@@ -853,7 +853,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 852,China Steel,Taiwan,9.1,0.497,21,12.8,Materials,Iron & Steel
 853,Bank of Ireland,Ireland,4.3,0.797,129.9,8.4,Financials,Major Banks
 854,China Gezhouba,China,14.9,0.511,21.8,8.5,Industrials,Construction Services
-855,Bâloise Group,Switzerland,9.1,0.543,78.9,6.3,,
+855,B√¢loise Group,Switzerland,9.1,0.543,78.9,6.3,,
 856,Rakuten,Japan,7.2,0.35,39.5,15.2,Consumer Discretionary,Internet & Catalog Retail
 857,Ameren,United States,6.1,0.653,24.7,13.2,Utilities,Electric Utilities
 858,Symantec,United States,3.8,2,16.8,19.1,Information Technology,Software & Programming
@@ -1261,7 +1261,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 1260,Genting,Malaysia,4.4,0.518,20.6,7.9,Consumer Discretionary,Casinos & Gaming
 1261,Bank Of Guiyang,China,1.8,0.554,53.6,5.7,Financials,
 1262,PotashCorp,Canada,4.5,0.335,17.3,14.2,,
-1263,W&W-Wüstenrot,Germany,7.1,0.258,75.9,1.8,,
+1263,W&W-W√ºstenrot,Germany,7.1,0.258,75.9,1.8,,
 1264,Sojitz,Japan,13.9,0.317,18.1,3.1,Industrials,Trading Companies
 1265,Darden Restaurants,United States,7,0.495,4.7,10.3,Consumer Discretionary,Restaurants
 1266,Sunac China Holdings,China,5.5,0.367,42.2,5.9,,
@@ -1306,7 +1306,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 1305,Marks & Spencer,United Kingdom,15,0.356,10.7,6.8,Consumer Discretionary,Department Stores
 1306,Pioneer Natural Resources,United States,4,-0.557,16.5,32.2,Energy,Oil & Gas Operations
 1307,Arab Bank,Jordan,2.4,0.522,47.5,5.7,Financials,Regional Banks
-1308,Foncière des Régions,France,1.1,0.866,20.6,6.3,,
+1308,Fonci√®re des R√©gions,France,1.1,0.866,20.6,6.3,,
 1309,Sino-Ocean Land Holdings,China,5.4,0.572,21.8,3.7,Financials,Real Estate
 1310,Nippon Express,Japan,17.1,0.341,13.2,4.8,Industrials,Trucking
 1311,Dxc Technology,United States,7.5,-0.101,8.3,21.5,Information Technology,
@@ -1334,7 +1334,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 1333,AmTrust Financial Services,United States,5.6,0.485,23.1,3.2,Financials,
 1334,Juniper Networks,United States,5,0.601,9.7,10.6,Information Technology,Communications Equipment
 1335,United Utilities,United Kingdom,2.4,0.608,15.9,8.5,Utilities,Diversified Utilities
-1336,Red Eléctrica,Spain,2.1,0.705,11.1,10.7,Utilities,
+1336,Red El√©ctrica,Spain,2.1,0.705,11.1,10.7,Utilities,
 1337,RusHydro,Russia,5.6,0.6,16.3,6,Utilities,Electric Utilities
 1338,Kobe Steel,Japan,15.5,-0.407,18.9,3.2,Materials,Iron & Steel
 1339,Wyndham Worldwide,United States,5.6,0.612,9.8,8.9,Consumer Discretionary,Hotels & Motels
@@ -1500,7 +1500,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 1499,STMicroelectronics,Switzerland,7,0.167,8,13.7,Information Technology,Semiconductors
 1500,Dangote Cement,Nigeria,2.4,0.745,4.9,9.1,Materials,Construction Materials
 1501,SDIC Essence,China,1.6,0.386,18.5,8.2,,
-1502,Wärtsilä,Finland,5.3,0.389,5.7,10.8,,
+1502,W√§rtsil√§,Finland,5.3,0.389,5.7,10.8,,
 1503,Oi,Brazil,7.5,-2,25.2,0.952,Telecommunication Services,Telecommunications services
 1504,Maxim Integrated Products,United States,2.2,0.5,3.9,12.7,Information Technology,Semiconductors
 1505,Chow Tai Fook Jewellery,Hong Kong,6.4,0.336,6.9,10.1,Consumer Discretionary,Apparel/Accessories
@@ -1750,7 +1750,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 1749,Taiwan Business Bank,Taiwan,0.934,0.161,46.5,1.6,Financials,Regional Banks
 1750,CalAtlantic Group,United States,6.5,0.484,8.7,4.3,Industrials,
 1751,Waste Connections,Canada,3.3,0.198,11.2,15.4,,
-1752,Nürnberger,Germany,4.6,0.064,30.7,0.837,,
+1752,N√ºrnberger,Germany,4.6,0.064,30.7,0.837,,
 1753,KION Group,Germany,6.2,0.272,12.5,7.1,Materials,
 1754,International Flavors & Fragrances,United States,3.1,0.404,4,10.4,Utilities,
 1755,China National Materials,China,7.5,0.088,15.6,1.3,Industrials,Other Industrial Equipment
@@ -1842,7 +1842,7 @@ Rank,Company,Country,Sales,Profits,Assets,Market Value,Sector,Industry
 1841,Hokkoku Bank,Japan,0.607,0.136,36.5,1.1,Financials,Regional Banks
 1842,Dali Foods Group,China,2.7,0.473,2.4,8,Financials,
 1843,Commercial Bank of Qatar,Qatar,1.7,0.077,35.8,3.4,Financials,Regional Banks
-1844,Industrias Peñoles,Mexico,4.4,0.307,6.9,10.4,,
+1844,Industrias Pe√±oles,Mexico,4.4,0.307,6.9,10.4,,
 1845,Allahabad Bank,India,3.2,-0.11,35.7,0.838,Financials,Regional Banks
 1846,Avery Dennison,United States,6.1,0.321,4.4,7.1,,
 1847,Merlin Properties SOCIMI S.A,Spain,0.401,0.645,11.5,5.4,,
